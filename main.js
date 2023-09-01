@@ -106,6 +106,7 @@ function checkWin(){
     reset();
   }
 } 
+console.log("goran");
 
 
 
